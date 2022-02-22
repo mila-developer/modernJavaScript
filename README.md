@@ -1,6 +1,6 @@
 # modernJavaScript
  
- ** Branches
+ ## Branches:
 * Task List
 * Loan Calculator
 * Number Guesser
