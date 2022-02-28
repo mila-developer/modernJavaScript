@@ -5,16 +5,16 @@ function getJokes(e) {
 
   const xhr = new XMLHttpRequest();
 
-  xhr.open('GET',`http://api.icndb.com/jokes/random/${number}`, true);
+  xhr.open('GET', `http://api.icndb.com/jokes/random/${number}`, true);
 
   xhr.onload = function() {
     if(this.status === 200) {
       const response = JSON.parse(this.responseText);
-
+      
       let output = '';
 
-      if(response.type === 'sucess') {
-        response.value.forEach(function(joke) {
+      if(response.type === 'success') {
+        response.value.forEach(function(joke){
           output += `<li>${joke.joke}</li>`;
         });
       } else {
