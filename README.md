@@ -9,4 +9,7 @@
 * Book List
 * Ajax Sandbox + Callback Functions + easyHTTP + Fetch API Sandbox
 * Chuck Norris Project
-##
+
+## How to open each Project
+If you use VS Code, download the 'live server' extension and click on Go Live button.
+![image](https://user-images.githubusercontent.com/81877746/156043658-9e454712-8297-45c0-b348-df41118c3d41.png)
