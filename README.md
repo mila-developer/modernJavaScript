@@ -8,4 +8,5 @@
 * Number Guesser
 * Book List
 * Ajax Sandbox
+* Chuck Norris Project
 ##
