@@ -7,6 +7,6 @@
 * Loan Calculator
 * Number Guesser
 * Book List
-* Ajax Sandbox + Callback Functions
+* Ajax Sandbox + Callback Functions + easyHTTP
 * Chuck Norris Project
 ##
