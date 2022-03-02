@@ -32,7 +32,7 @@
 // sayHello('Brad', 'Traversy');
 
 // Shorter
-// const users = ['Nathan', 'John', 'William'];
+const users = ['Nathan', 'John', 'William'];
 
 // const nameLengths = users.map(function(name) {
 //   return name.length;
