@@ -12,6 +12,7 @@
 * Ajax Sandbox + Callback Functions + easyHTTP + Fetch API Sandbox + Arrow Functions
 * Chuck Norris Project
 * GitHub Finder
+* Weather
 
 ##
 
